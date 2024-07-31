@@ -33,5 +33,4 @@ Special thanks to [Ayushi Jain](https://www.linkedin.com/in/ayushi-jain/) from t
 ## Documentation
 For detailed project documentation and dashboards, visit https://github.com/Nityamjain/Pizza-sales-analysis
 
-## License
-[MIT](LICENSE)
+
